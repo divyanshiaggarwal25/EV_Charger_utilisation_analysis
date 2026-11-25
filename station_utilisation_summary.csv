@@ -1,0 +1,5 @@
+Station_ID,avg_utilisation_pct,avg_idle_mins_per_hr,total_idle_hours,total_energy_kwh,bottleneck_hours
+STN_Gurgaon_03,63.64,21.82,785.5,30239.8,677
+STN_Noida_01,60.35,23.79,856.4,28678.32,639
+STN_Faridabad_02,52.04,28.78,1035.9,24729.32,486
+STN_Delhi_04,41.24,35.25,1269.2,19597.37,191

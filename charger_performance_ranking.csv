@@ -1,0 +1,13 @@
+Charger_ID,Station_ID,avg_utilisation_pct,avg_idle_mins_per_hr,total_energy_kwh,bottleneck_hours,Rank,Performance_Tier
+STN_Gurgaon_03_CHG_A,STN_Gurgaon_03,68.84,18.69,10904.66,242,1,High Performing
+STN_Noida_01_CHG_A,STN_Noida_01,66.47,20.11,10529.37,237,2,High Performing
+STN_Gurgaon_03_CHG_B,STN_Gurgaon_03,64.67,21.2,10243.35,236,3,High Performing
+STN_Noida_01_CHG_B,STN_Noida_01,60.78,23.53,9627.18,221,4,High Performing
+STN_Faridabad_02_CHG_A,STN_Faridabad_02,58.36,24.98,9243.84,211,5,Moderate
+STN_Gurgaon_03_CHG_C,STN_Gurgaon_03,57.4,25.56,9091.79,199,6,Moderate
+STN_Noida_01_CHG_C,STN_Noida_01,53.8,27.72,8521.77,181,7,Moderate
+STN_Faridabad_02_CHG_B,STN_Faridabad_02,52.45,28.53,8308.89,174,8,Moderate
+STN_Delhi_04_CHG_A,STN_Delhi_04,47.24,31.65,7483.07,117,9,Low Performing
+STN_Faridabad_02_CHG_C,STN_Faridabad_02,45.31,32.82,7176.59,101,10,Low Performing
+STN_Delhi_04_CHG_B,STN_Delhi_04,41.52,35.09,6576.57,60,11,Low Performing
+STN_Delhi_04_CHG_C,STN_Delhi_04,34.96,39.02,5537.73,14,12,Low Performing
